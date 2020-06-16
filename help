@@ -1,0 +1,5 @@
+Format: python snapshot.py <COMMAND> <PROJECT_FOLDER>
+
+Command to use Snapshot:
+init		Initialize snapshot folder
+snap		Takes snapshot of your project and place it into '.snapshot' folder
